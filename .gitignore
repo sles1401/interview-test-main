@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Build output
+/dist
+/build
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Vite and TypeScript build artifacts
+vite.config.ts
+tsconfig.tsbuildinfo
+
+# Local environment files
+.env.local
+.env.*.local
+
+# Next.js build output (if using Next.js)
+.next/
+
+# macOS specific files
+*.swp
+*.swo
+
+# Ignore other IDE settings (example for VS Code, JetBrains)
+.vscode/
+.idea/
+
+# npm package lock files (optional: uncomment if needed)
+# package-lock.json
+# yarn.lock
+
